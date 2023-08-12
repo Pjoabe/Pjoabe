@@ -1,7 +1,7 @@
 <h1 align="center">Joabe Pereira</h1>
 <h3 align="center">FullSatck Web Developer.</h3>
 
-- 💡 Searching for a Job in Back End Development.
+- 💡 Searching for a Job in fullStack Development.
  
 - 📚 Studying Web Development - JavaScript at [Trybe](www.trybe.com.br)
 
